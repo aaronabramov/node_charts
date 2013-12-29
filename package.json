@@ -1,0 +1,27 @@
+{
+  "name": "node_charts",
+  "version": "0.0.0",
+  "description": "node_charts ===========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rutkovsky/node_charts.git"
+  },
+  "keywords": [
+    "node",
+    "charts",
+    "canvas"
+  ],
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/rutkovsky/node_charts/issues"
+  },
+  "homepage": "https://github.com/rutkovsky/node_charts",
+  "dependencies": {
+    "canvas": "1.1.2"
+  }
+}
